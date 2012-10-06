@@ -2,7 +2,7 @@
 *.slo
 *.lo
 *.o
-/deb/*
+/deb
 
 # Compiled Dynamic libraries
 *.so
